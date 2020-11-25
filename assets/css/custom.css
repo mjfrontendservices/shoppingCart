@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* global */
+
+body{
+    
+}
+
+.sidebar{
+    width: 20%;
+    height: 100vh;
+    background: rgb(45, 167, 150);
+    position: fixed;
+    float: left;
+}
+
+.main{
+    width: 80%;
+    float: right;
+}
+
+.blue{
+    color: rgb(45, 167, 150);
+}
+
+/* body */
+
+.main header{
+    display: flex;
+    padding: 10px;
+}
+
+.main header .brand,
+.main header .cart-home{
+    width: 50%;
+}
+
+header h1{
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+
+header .cart-count{
+    float: right;
+}
+
+/* carousel */
+
+.carousel{
+    padding: 50px 0 50px 0;
+}
+
+.owl-carousel-item{
+    width: 90%;
+    height: 50vh;
+}
+
+.carousel-img{
+    height: 50%;
+}
+
+.carousel-img img{
+    width: 100%;
+    height: 100%;
+}
+
+.caption{
+    height: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.caption h3{
+    font-size: 20px;
+}
+
+.caption p{
+    font-size: 15px;
+}
+
+.caption button{
+    width: 100%;
+    padding: 10px 0 10px 0;
+    border: none;
+    font-size: 12px;
+}
+
+/* cart */
+
+.cart-items{
+    padding: 10px 0 10px 0;
+}
+
+.cart-item{
+    background: #f4f4f4;
+    padding: 10px;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.cart-img{
+    width: 10%;
+}
+
+.cart-img img{
+    width: 100%;
+}
+
+.cart-pname{
+    width: 60%;
+    text-align: center;
+}
+
+.cart-pname h2{
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.cart-price{
+    width: 20%;
+    text-align: center;
+}
+
+.cart-price p{
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.cart-delete{
+    width: 10%;
+    text-align: center;
+}
+
+.cart-delete i{
+    padding-top: 25px;
+}
+
+.deleteAll{
+    padding: 10px;
+    font-size: 12px;
+    border: none;
+    background: rgb(221, 142, 142);
+    color: #fff;
+    margin: 20px 0 20px 0;
+}

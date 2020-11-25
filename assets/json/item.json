@@ -1,0 +1,32 @@
+[
+    {
+        "img": "assets/img/2ternoshort2.jpg",
+        "pname": "Nike Terno Short With Bright Colors",
+        "price": 250.00
+    },
+    {
+        "img": "assets/img/2ternoshort1.jpg",
+        "pname": "Fire Terno Shorts",
+        "price": 322.00
+    },
+    {
+        "img": "assets/img/1couple1.jpg",
+        "pname": "Sana All Shirts",
+        "price": 540.00
+    },
+    {
+        "img": "assets/img/1short1.jpg",
+        "pname": "Shark Waves",
+        "price": 200.00
+    },
+    {
+        "img": "assets/img/1couple2.jpg",
+        "pname": "Dress 3",
+        "price": 30.00
+    },
+    {
+        "img": "assets/img/1couple1.jpg",
+        "pname": "Dress 1",
+        "price": 540.00
+    }
+]
